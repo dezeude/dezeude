@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dezeude on instagram.
-- My name is David Ezeude, and I am a student
+- My name is David Ezeude, and I am a CS student.
+- My other github account (and where I have most of my commits) is dezeude-unc.
 
 <!---
 dezeude/dezeude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
